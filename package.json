@@ -1,0 +1,7 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Xiaohai <xiaohai.liu@klook.com>",
+  "license": "MIT"
+}
